@@ -7,6 +7,6 @@ public class HelloTest
 	@Test
 	public void testMethod()
 	{
-		System.out.println("I am in  testMethod");
+		System.out.println("changes for git");
 	}
 }
